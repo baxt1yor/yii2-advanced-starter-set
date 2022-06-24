@@ -24,7 +24,7 @@ It covers typical use cases for a new project and will help you not to waste you
 5. npm run build
 6. For Windows OS: Change .../yii2-advanced-starter-set/vendor/yiisoft/yii2/web/AssetManager.php with .../yii2-advanced-starter-set/docs/Windows/AssetManager.php 
 7. Go to http://yii2-advanced.loc for Frontend OR http://yii2-advanced.loc/admin for Backend
-8. Alternatively You can use "Ready to use" zip file from docs/yii2-advanced-starter-set.zip and restore DB from docs/yii2_advanced_starter_set_db.sql
+8. Alternatively You can use "Ready to use" zip file from https://drive.google.com/file/d/1sCqaFxPjBfSfmJNiBZQSSz5yDJzSx9w6/view?usp=sharing (yii2-advanced-starter-set.zip file)  and restore DB from docs/yii2_advanced_starter_set_db.sql
 
 ## FEATURES
 ### Admin backend
@@ -87,8 +87,8 @@ It covers typical use cases for a new project and will help you not to waste you
 - [Swagger](https://swagger.io/) for API docs.
 
 ## DEMO
-- Frontend: [https://yii2-advanced.eh5.ru](https://yii2-advanced.eh5.ru)
-- Backend: [https://yii2-advanced.eh5.ru/admin](https://yii2-advanced.eh5.ru/admin)
+- Frontend: [http://yii2-advanced.eh5.ru](https://yii2-advanced.eh5.ru)
+- Backend: [http://yii2-advanced.eh5.ru/admin](https://yii2-advanced.eh5.ru/admin)
 
 `administrator` role account
 ```
