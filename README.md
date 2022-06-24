@@ -17,7 +17,7 @@ It covers typical use cases for a new project and will help you not to waste you
 - [Have any questions?](#have-any-questions)
 
 ## Installation
-1. Clone Repo from https://github.com/ilhomjon-urman/yii2-advanced-starter-set
+1. Clone Repo from https://github.com/ilhomjon-urman/yii2-advanced-starter-set.git
 2. composer install 
 3. npm install
 4. php console/yii app/setup
