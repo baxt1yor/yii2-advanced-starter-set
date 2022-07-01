@@ -21,11 +21,12 @@ It covers typical use cases for a new project and will help you not to waste you
 1. Clone Repo from https://github.com/ilhomjon-urman/yii2-advanced-starter-set.git
 2. composer install 
 3. npm install
-4. php console/yii app/setup
-5. npm run build
-6. For Windows OS: Change .../yii2-advanced-starter-set/vendor/yiisoft/yii2/web/AssetManager.php with .../yii2-advanced-starter-set/docs/Windows/AssetManager.php 
-7. Go to http://yii2-advanced.loc for Frontend OR http://yii2-advanced.loc/admin for Backend
-8. Alternatively You can use "Ready to use" zip file from https://drive.google.com/file/d/1sCqaFxPjBfSfmJNiBZQSSz5yDJzSx9w6/view?usp=sharing (yii2-advanced-starter-set.zip file)  and restore DB from docs/yii2_advanced_starter_set_db.sql
+4. Configure DB in .env
+5. php console/yii app/setup
+6. npm run build
+7. For Windows OS: Change .../yii2-advanced-starter-set/vendor/yiisoft/yii2/web/AssetManager.php with .../yii2-advanced-starter-set/docs/Windows/AssetManager.php 
+8. Go to http://yii2-advanced.loc for Frontend OR http://yii2-advanced.loc/admin for Backend
+9. Alternatively You can use "Ready to use" zip file from https://drive.google.com/file/d/1sCqaFxPjBfSfmJNiBZQSSz5yDJzSx9w6/view?usp=sharing (yii2-advanced-starter-set.zip file)  and restore DB from docs/yii2_advanced_starter_set_db.sql
 
 ## FEATURES
 ### Admin backend
