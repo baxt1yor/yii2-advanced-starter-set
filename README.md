@@ -7,6 +7,7 @@ It was created and developing as a fast start for building an advanced sites bas
 It covers typical use cases for a new project and will help you not to waste your time doing the same work in every project
 
 ## TABLE OF CONTENTS
+- [Installation](#installation)
 - [Demo](#demo)
 - [Features](#features)
 - [Components documentation](docs/components.md)
